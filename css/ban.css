@@ -1,0 +1,37 @@
+.ban:hover {
+    cursor: pointer ;
+}
+.table:hover ion-icon {
+    color: coral;
+}
+.table:hover {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+
+.name i{
+    color: #473535;
+    
+}
+.active-ban{
+    color:#25B735;
+}
+.ban:hover{
+    cursor: pointer ;
+}
+.table:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+
+
+.menu {
+    color: black;
+    background: #96f79e;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.menu:hover{
+    background: #0ee632;
+}
+
